@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+0372f2657da033a9db8b7a83c50f6e19 Glitter/Vendor/glfw/CMakeFiles/uninstall
